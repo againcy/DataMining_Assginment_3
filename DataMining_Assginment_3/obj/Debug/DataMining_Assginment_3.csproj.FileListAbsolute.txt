@@ -1,0 +1,9 @@
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\bin\Debug\DataMining_Assginment_3.exe.config
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\bin\Debug\DataMining_Assginment_3.exe
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\bin\Debug\DataMining_Assginment_3.pdb
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\obj\Debug\DataMining_Assginment_3.csprojResolveAssemblyReference.cache
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\obj\Debug\DataMining_Assginment_3.exe
+c:\users\liuyibin\documents\visual studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\obj\Debug\DataMining_Assginment_3.pdb
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\bin\Debug\Interop.MLApp.dll
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\obj\Debug\Interop.MLApp.dll
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assginment_3\DataMining_Assginment_3\obj\Debug\DataMining_Assginment_3.csproj.ResolveComReference.cache
